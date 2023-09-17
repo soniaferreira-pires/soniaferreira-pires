@@ -6,6 +6,7 @@ Sónia here... 👋
 - 👀 Areas of Interest: Data Science, Machine Learning, Big Data, Data Analysis, Python Software Development.
 - 💪 Aim to: Get better daily at solving problems. Learn.
 - 🔗 [LinkedIn](www.linkedin.com/in/soniapiresferreira)
+- 🔗 www.linkedin.com/in/soniapiresferreira
 
 
 
