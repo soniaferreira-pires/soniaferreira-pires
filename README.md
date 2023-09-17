@@ -5,7 +5,7 @@ Sónia here... 👋
 - 👩‍🎓 Bachelor's Degree, Computer Systems Engineering.
 - 👀 Areas of Interest: Data Science, Machine Learning, Big Data, Data Analysis, Python Software Development.
 - 💪 Aim to: Get better daily at solving problems. Learn.
-- 📫 www.linkedin.com/in/soniapiresferreira
+- 🔗 [LinkedIn](www.linkedin.com/in/soniapiresferreira)
 
 
 
