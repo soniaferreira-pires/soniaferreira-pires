@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello world! 🌍
+Sónia here... 👋 
+
+- 🔭 I'm currently a graduate student pursuing a Master's degree in Data Science & Engineering, with a strong foundation in the Energy & Utilities Industry as an SAP Consultant.
+- 👩‍🎓 Bachelor's Degree, Computer Systems Engineering.
+- 👀 Areas of Interest: Data Science, Machine Learning, Big Data, Data Analysis, Python Software Development.
+- 💪 Aim to: Get better daily at solving problems. Learn.
+
 
 <!--
 **soniaferreira-pires/soniaferreira-pires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
