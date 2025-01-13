@@ -1,10 +1,9 @@
 ### Hello world! 🌍
 Sónia here... 👋 
 
-- 🔭 I'm currently a graduate student pursuing a Master's degree in Data Science & Engineering, with a strong foundation in the Energy & Utilities Industry as an SAP Consultant.
-- 👩‍🎓 Bachelor's Degree, Computer Systems Engineering.
+- 🔭 Master's Data Science & Engineering @ FEUP, with a strong foundation in the Energy & Utilities Industry as an SAP Consultant.
+- 👩‍🎓 Bachelor's Degree, Computer Systems Engineering @ IPCA.
 - 👀 Areas of Interest: Data Science, Machine Learning, Big Data, Data Analysis, Python Software Development.
-- 💪 Aim to: Get better daily at solving problems. Learn.
 - 🔗 www.linkedin.com/in/soniapiresferreira
 
 
