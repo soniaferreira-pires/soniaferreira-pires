@@ -3,6 +3,7 @@ Sónia here... 👋
 
 - 🔭 Master's Data Science & Engineering @ FEUP, with a strong foundation in the Energy & Utilities Industry as an SAP Consultant.
 - 👩‍🎓 Bachelor's Degree, Computer Systems Engineering @ IPCA.
+  
 <!-- - 👀 Areas of Interest: Data Science, Machine Learning, Big Data, Data Analysis, Python Software Development.
 - 🔗 www.linkedin.com/in/soniapiresferreira -->
 
